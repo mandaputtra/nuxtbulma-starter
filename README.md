@@ -1,4 +1,5 @@
 # Starter
+This repository almost the same as the [starter-template](https://github.com/nuxt-community/starter-template)
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) plus Bulma starter template with configuration already made.
 
