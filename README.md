@@ -2,7 +2,7 @@
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) plus Bulma starter template with configuration already made.
 
-CSS are imported globaly, since [Bulma](https://bulma.io) are using sass, this template are using sass too, and you can also customize it and use the bulma function or mixins (optional)
+CSS are imported globaly, since [Bulma](https://bulma.io) are using sass, this template are using sass too, and you can also [customize](https://bulma.io/documentation/customize/) it and use the bulma function or mixins (optional)
 
 ## Prerequisites
 
