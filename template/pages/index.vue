@@ -4,10 +4,10 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-        testmytemplate
+        {{ name }}
       </h1>
       <h2 class="subtitle">
-        Nuxt.js + Bulma
+        {{ description }}
       </h2>
         <a
           href="https://nuxtjs.org/"
