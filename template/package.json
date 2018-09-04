@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "testmytemplate",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "Nuxt.js + Bulma",
+  "author": "mandaputtra <mandaputra8@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",

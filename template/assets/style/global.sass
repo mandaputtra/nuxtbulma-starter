@@ -1,0 +1,21 @@
+// You can had your custom css at the component too, whatever you like,
+// keep in mind that if you imported your sass file or css file here, it will import globaly,
+// matching your component or page name.
+
+// be carefull, the css you write on the component or pages are always win and overide the css 
+// that youre import globaly
+
+// this line will import bulma style so you can had bulma mixin and the other stuf you can customize
+// if you want to theming your bulma colors you can do that too. 
+// https://bulma.io/documentation/customize/ customizing on bulma
+@import '../../node_modules/bulma/sass/utilities/all'
+
+
+// component style
+@import './components/applogo'
+
+// default style
+@import './default/default'
+
+// pages style
+@import './pages/index.sass'

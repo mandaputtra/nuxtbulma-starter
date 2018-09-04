@@ -13,6 +13,11 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
   },
+  // this line import css globaly, you can remove it see more
+  // instruction on global.sass
+  css: [
+    '@/assets/style/global.sass',
+  ],
   /*
   ** Customize the progress bar color
   */
