@@ -1,6 +1,6 @@
-# testmytemplate
+# {{ name }}
 
-> Nuxt.js + Bulma
+> {{ description }}
 
 ## Build Setup
 
