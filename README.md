@@ -1,3 +1,5 @@
+## No one will use starter these days Nuxt.js already provide better way to do scaffold things.
+
 # Starter
 This repository almost the same as the [starter-template](https://github.com/nuxt-community/starter-template)
 
